@@ -1,0 +1,19 @@
+{
+  "name": "prj2epsg",
+  "version": "1.0.0",
+  "description": "Node.js module for converting .prj files / projcs strings to EPSG codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roquef/prj2epsg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roquef/prj2epsg/issues"
+  },
+  "homepage": "https://github.com/roquef/prj2epsg#readme"
+}
